@@ -17,7 +17,7 @@ In V2 an ad hoc smart contract can enable more granular choices and ease of use.
 
 Specific storylinks collections could be done also in collaboration with other projects. 
 
-Many developments are possible on this foundation, which can turn 77 Million Stories into a narration hub for the shape ecosystem.  
+Many developments are possible on this foundation, which can turn 77 Million Stories into a narration hub for the Shape L2 ecosystem.  
 
 Contract address : 0xe8Eb5Ff2Cba2E0b9ceb10523520303f35638c1A9
 
