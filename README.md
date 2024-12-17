@@ -17,9 +17,13 @@ In V2 an ad hoc smart contract can enable more granular choices and ease of use.
 
 Specific storylinks collections could be done also in collaboration with other projects. 
 
-Many developments are possible on this foundation, which can turn 77 Million Stories into a narration hub for the Shape L2 ecosystem.  
+Many developments are possible on this foundation, which can turn 77 Million Stories into a narration hub for the Shape L2 ecosystem. 
 
-Contract address : 0xe8Eb5Ff2Cba2E0b9ceb10523520303f35638c1A9
+Important note : In some cases (batch minting for example) this version can have an issue with metadatas recording.
+This issue is probably linked with the time limit function for metadatas in the highlight framework.
+A new version is under way.
+
+Current Contract address : 0xe8Eb5Ff2Cba2E0b9ceb10523520303f35638c1A9
 
 Highlight integration 
 https://github.com/highlightxyz/generative-art/blob/main/README.md
